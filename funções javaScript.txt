@@ -1,0 +1,26 @@
+Ffunções javaScript
+1°passo:
+  escrever a palavra chave "function"
+2°passo:
+  dá um nome a função
+3°passo:
+  escrever parentes (), e dentro deles os
+  parametros necessarios para a função.
+4°passo:
+  delimita o inicio e fim da função com o
+  simbolo da chave {}
+5°passo:
+  entre as chaves será escito o código
+  da programação da função. se caso necessário
+  será usado a palavra-chave return para retorno
+  dos valores necessarios.
+
+criar uma função que ao ser chamada escreva
+o nome de quem chamou
+
+ criar uma função que retorna a soma de 3 numeros 
+ passando por parentes
+
+ escrever uma função que escreva o resultado da 
+ seguinte equação x=a+b*c
+  
